@@ -1,4 +1,4 @@
-phonegap-FIleViewer
+phonegap-FileViewer
 ===================
 ## File Viewer plugin for Phonegap ##
 A plugin that open files like pdf, flv , mp4 and jpg from sdcard in phonegap application.
