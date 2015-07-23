@@ -13,6 +13,8 @@ A plugin that open files like pdf, flv , mp4 and jpg from sdcard in phonegap app
 
 In FileViewer.js enter the path of the file in your sdcard
 
+```javascript
+    
     function myshow() {
         window.echo("/sdcard/download/cc.pdf", function (returnvalue) {
             alert(returnvalue); 
@@ -22,6 +24,7 @@ In FileViewer.js enter the path of the file in your sdcard
 
 Then call the myshow() function in this way from your html file
 
+```javascript
           <a href="#" onclick="myshow()">open file</a>
 
   
