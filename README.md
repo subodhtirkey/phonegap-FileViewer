@@ -25,6 +25,7 @@ In FileViewer.js enter the path of the file in your sdcard
 Then call the myshow() function in this way from your html file
 
 ```javascript
+
           <a href="#" onclick="myshow()">open file</a>
 
   
